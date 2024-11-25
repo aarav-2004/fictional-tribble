@@ -1,0 +1,62 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Microsoft vs Apple Dataset</title>
+    <!-- Include DataTables CSS -->
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+</head>
+<body>
+    <header>
+        <h1>Microsoft vs Apple Dataset</h1>
+        <p>Explore and download the dataset comparing Microsoft and Apple performance over the last decade.</p>
+    </header>
+    <main>
+        <table id="dataset" class="display">
+            <thead>
+                <tr>
+                    <th>Year</th>
+                    <th>Company</th>
+                    <th>Region</th>
+                    <th>Product Category</th>
+                    <th>Sub-Category</th>
+                    <th>Revenue (USD)</th>
+                    <th>Profit (USD)</th>
+                    <th>Units Sold</th>
+                    <th>Customer Segment</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Data will be loaded dynamically -->
+            </tbody>
+        </table>
+        <p><a href="Microsoft_vs_Apple_Dataset.csv" download>Download the dataset (CSV)</a></p>
+    </main>
+    <!-- Include jQuery -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <!-- Include DataTables JS -->
+    <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+    <script>
+        // Load the data into the table dynamically
+        $(document).ready(function () {
+            $('#dataset').DataTable({
+                ajax: 'Microsoft_vs_Apple_Dataset.csv',
+                columns: [
+                    { data: 'Year' },
+                    { data: 'Company' },
+                    { data: 'Region' },
+                    { data: 'Product Category' },
+                    { data: 'Sub-Category' },
+                    { data: 'Revenue (USD)' },
+                    { data: 'Profit (USD)' },
+                    { data: 'Units Sold' },
+                    { data: 'Customer Segment' }
+                ],
+                dom: 'Bfrtip'
+            });
+        });
+    </script>
+</body>
+</html>

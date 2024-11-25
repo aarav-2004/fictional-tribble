@@ -1,0 +1,1001 @@
+Year,Company,Region,Product Category,Sub-Category,Revenue (USD),Profit (USD),Units Sold,Customer Segment
+2019,Apple,Asia-Pacific,Consumer Electronics,Tablets,22913523,7862934,8481,Retail
+2017,Microsoft,North America,Hardware,PC Accessories,25022736,10103869,9732,Enterprise
+2018,Microsoft,Europe,Software,Operating Systems,13037369,2816595,3500,Retail
+2022,Microsoft,Global,Cloud Services,Azure Subscriptions,43221834,5468868,8340,Small & Medium Business
+2018,Apple,Europe,Wearables,Fitness Bands,49903139,14445324,2884,Small & Medium Business
+2019,Apple,North America,Accessories,AirPods,15516934,6321760,6308,Small & Medium Business
+2014,Apple,Asia-Pacific,Wearables,Apple Watch,35800954,12055294,9439,Retail
+2020,Apple,Asia-Pacific,Accessories,AirPods,29123275,4735545,9271,Education
+2014,Microsoft,North America,Cloud Services,Azure Subscriptions,3233781,1102996,9361,Education
+2014,Microsoft,Global,Gaming,Games,49932796,19148506,2972,Small & Medium Business
+2023,Apple,Europe,Consumer Electronics,Tablets,38451886,16179437,3383,Retail
+2023,Apple,North America,Services,Apple Music,27786830,8614994,8202,Enterprise
+2016,Apple,Europe,Services,Apple Music,23398032,4119330,2485,Education
+2015,Apple,South America,Wearables,Apple Watch,27466761,7184089,4072,Small & Medium Business
+2017,Microsoft,Africa,Gaming,Xbox Consoles,3768491,1303148,5030,Retail
+2019,Microsoft,Asia-Pacific,Software,Office Suite,34359468,11181886,3134,Retail
+2016,Apple,Asia-Pacific,Services,iCloud,3587312,1058842,8296,Enterprise
+2020,Apple,Europe,Accessories,Chargers,24238360,7936535,7023,Enterprise
+2017,Apple,Global,Consumer Electronics,Smartphones,31828725,13142242,5806,Retail
+2014,Apple,Asia-Pacific,Accessories,Chargers,8908550,2886666,1588,Small & Medium Business
+2015,Microsoft,South America,Cloud Services,Azure Subscriptions,25587654,7705296,1320,Education
+2017,Apple,Africa,Wearables,Fitness Bands,45318208,15552509,6665,Enterprise
+2014,Microsoft,Europe,Gaming,Games,34750585,6541224,3118,Enterprise
+2015,Microsoft,Asia-Pacific,Cloud Services,Enterprise Solutions,13672563,4926180,2380,Retail
+2021,Apple,Africa,Services,iCloud,2204021,401108,6760,Enterprise
+2018,Apple,Global,Consumer Electronics,Tablets,8741828,1666100,9470,Retail
+2023,Microsoft,Europe,Cloud Services,Azure Subscriptions,46796247,10182504,8792,Retail
+2023,Apple,Africa,Services,iCloud,9576857,2393562,5988,Small & Medium Business
+2014,Microsoft,South America,Cloud Services,Enterprise Solutions,44250273,15905100,5801,Enterprise
+2019,Apple,South America,Services,Apple Music,24540764,7973808,1935,Small & Medium Business
+2023,Apple,North America,Services,Apple Music,16828595,5313853,8966,Education
+2022,Apple,Africa,Consumer Electronics,Smartphones,42436966,8659389,2855,Retail
+2015,Microsoft,Africa,Software,Operating Systems,49545487,11929190,4417,Small & Medium Business
+2020,Apple,Global,Wearables,Apple Watch,35310794,14197342,684,Small & Medium Business
+2016,Apple,South America,Services,Apple Music,2890046,639203,1771,Retail
+2019,Microsoft,South America,Gaming,Xbox Consoles,24146721,8917764,2853,Enterprise
+2019,Apple,Europe,Services,iCloud,24183328,4395152,6762,Small & Medium Business
+2019,Microsoft,Africa,Cloud Services,Azure Subscriptions,31546001,3215121,9898,Education
+2015,Apple,North America,Consumer Electronics,Tablets,14871042,5731050,2158,Enterprise
+2023,Microsoft,North America,Hardware,PC Accessories,2015290,277663,7871,Education
+2022,Microsoft,North America,Cloud Services,Azure Subscriptions,2249554,568645,6632,Retail
+2021,Apple,Africa,Consumer Electronics,Tablets,4939545,1826881,3943,Retail
+2021,Apple,Asia-Pacific,Accessories,Chargers,31884732,11996351,3984,Retail
+2021,Microsoft,North America,Cloud Services,Enterprise Solutions,49012748,19302208,7838,Enterprise
+2020,Apple,Africa,Services,iCloud,9826674,1172318,8727,Enterprise
+2022,Microsoft,Europe,Gaming,Games,31557185,9564836,7384,Small & Medium Business
+2019,Apple,South America,Services,Apple Music,5860355,1218077,2063,Education
+2021,Apple,North America,Accessories,AirPods,5824487,1316759,917,Education
+2016,Apple,Asia-Pacific,Services,Apple Music,30249681,8756243,4473,Education
+2014,Microsoft,South America,Cloud Services,Azure Subscriptions,27045213,8659765,7439,Enterprise
+2020,Apple,Global,Services,iCloud,5995502,1974573,6848,Enterprise
+2021,Apple,Africa,Services,iCloud,2105375,513758,3141,Retail
+2022,Microsoft,Europe,Gaming,Xbox Consoles,7615067,2726517,3729,Education
+2022,Apple,Global,Services,iCloud,35424208,14267362,6338,Small & Medium Business
+2014,Microsoft,Africa,Cloud Services,Enterprise Solutions,14757160,2310544,5134,Education
+2018,Microsoft,Africa,Hardware,Surface Devices,18089916,6850732,6578,Education
+2023,Apple,Africa,Consumer Electronics,Tablets,26275437,8305146,1322,Enterprise
+2017,Microsoft,Europe,Cloud Services,Enterprise Solutions,2361703,287454,8368,Retail
+2020,Apple,Asia-Pacific,Wearables,Fitness Bands,23698030,4656250,8956,Retail
+2017,Apple,Africa,Consumer Electronics,Smartphones,16963710,3618165,6488,Enterprise
+2015,Microsoft,South America,Gaming,Xbox Consoles,46897974,6042426,5935,Small & Medium Business
+2016,Microsoft,Europe,Software,Operating Systems,16524506,6799551,4275,Enterprise
+2017,Apple,Global,Services,Apple Music,23305016,8919546,5488,Education
+2014,Apple,Global,Wearables,Fitness Bands,28593827,11384719,8108,Enterprise
+2017,Apple,Global,Wearables,Apple Watch,39509841,19112474,7603,Retail
+2018,Apple,Africa,Services,iCloud,18772775,3933284,1589,Small & Medium Business
+2022,Apple,North America,Services,Apple Music,19281124,3714251,2505,Retail
+2015,Apple,Global,Accessories,Chargers,9913387,3626904,3554,Small & Medium Business
+2018,Microsoft,Asia-Pacific,Gaming,Xbox Consoles,34171594,11142371,1914,Education
+2022,Microsoft,South America,Software,Operating Systems,12197043,1830134,7229,Small & Medium Business
+2015,Microsoft,Europe,Hardware,PC Accessories,16729729,8325544,738,Education
+2018,Microsoft,Africa,Cloud Services,Enterprise Solutions,5709041,2471260,4500,Retail
+2022,Apple,Africa,Wearables,Apple Watch,12287746,5386894,4611,Education
+2021,Apple,Asia-Pacific,Consumer Electronics,Tablets,41146922,6656813,8120,Retail
+2014,Microsoft,Asia-Pacific,Cloud Services,Enterprise Solutions,20944629,3249348,3438,Retail
+2018,Apple,Africa,Accessories,AirPods,48811553,16620634,3655,Small & Medium Business
+2018,Apple,Africa,Accessories,AirPods,41455855,9602951,2898,Education
+2023,Apple,Africa,Accessories,Chargers,48449220,16649784,8911,Small & Medium Business
+2017,Apple,South America,Services,Apple Music,28477822,7176377,7160,Enterprise
+2016,Apple,North America,Accessories,Chargers,19503279,3694898,2061,Small & Medium Business
+2022,Microsoft,Global,Hardware,PC Accessories,47645560,21189694,7743,Education
+2014,Apple,Africa,Services,Apple Music,49303537,17648982,561,Small & Medium Business
+2018,Apple,Asia-Pacific,Wearables,Apple Watch,14291278,2023298,8865,Education
+2020,Apple,Europe,Accessories,Chargers,8665103,1623608,173,Retail
+2021,Apple,Africa,Services,Apple Music,37313027,10477112,9818,Enterprise
+2019,Apple,Asia-Pacific,Accessories,AirPods,24272613,9461238,384,Enterprise
+2014,Microsoft,Global,Cloud Services,Azure Subscriptions,9229165,2312801,8426,Small & Medium Business
+2023,Apple,South America,Consumer Electronics,Tablets,47603936,7246112,2608,Retail
+2019,Apple,Europe,Wearables,Apple Watch,22047243,4698090,1255,Enterprise
+2021,Apple,Africa,Services,iCloud,982336,388676,8767,Enterprise
+2017,Microsoft,North America,Software,Operating Systems,49798449,24569880,8210,Education
+2016,Apple,Asia-Pacific,Services,Apple Music,28391674,5483016,1362,Education
+2015,Microsoft,Global,Cloud Services,Azure Subscriptions,15135770,4098124,2405,Education
+2015,Apple,Europe,Accessories,Chargers,6710429,1374788,7555,Education
+2021,Apple,Africa,Accessories,Chargers,23852396,3515422,1566,Enterprise
+2016,Apple,South America,Wearables,Apple Watch,30294698,7401258,6605,Enterprise
+2015,Apple,Asia-Pacific,Services,Apple Music,17083080,5698297,3695,Education
+2018,Microsoft,Asia-Pacific,Hardware,Surface Devices,43611098,10819587,1270,Retail
+2017,Apple,Asia-Pacific,Accessories,Chargers,25852427,8462753,9272,Small & Medium Business
+2018,Apple,North America,Services,Apple Music,18568475,6890259,5689,Small & Medium Business
+2019,Microsoft,South America,Hardware,PC Accessories,23885661,7798165,2642,Retail
+2021,Apple,Global,Accessories,AirPods,14552739,3084714,2968,Small & Medium Business
+2014,Apple,South America,Accessories,AirPods,34875330,5833184,6554,Retail
+2021,Microsoft,South America,Cloud Services,Azure Subscriptions,37325354,6259123,601,Education
+2018,Apple,Global,Consumer Electronics,Smartphones,42641080,12063905,7618,Small & Medium Business
+2015,Apple,Africa,Consumer Electronics,Tablets,25730868,4405427,5204,Education
+2018,Apple,North America,Wearables,Fitness Bands,30785726,6550936,2182,Retail
+2015,Apple,North America,Wearables,Apple Watch,10150243,4139041,7161,Small & Medium Business
+2017,Apple,Europe,Wearables,Apple Watch,16239992,2109482,1033,Enterprise
+2017,Apple,South America,Accessories,AirPods,44656409,18080987,6439,Education
+2022,Microsoft,Europe,Hardware,PC Accessories,545929,167564,1909,Education
+2018,Apple,Africa,Wearables,Fitness Bands,33590803,7149623,8911,Retail
+2014,Microsoft,Europe,Software,Office Suite,1981009,946622,9982,Education
+2019,Apple,Global,Accessories,Chargers,46285396,17723748,6980,Small & Medium Business
+2015,Microsoft,Europe,Software,Operating Systems,35785678,13197527,4788,Enterprise
+2018,Apple,Asia-Pacific,Consumer Electronics,Tablets,6708634,700588,3496,Enterprise
+2022,Apple,South America,Services,iCloud,29939352,8723927,5113,Retail
+2023,Microsoft,North America,Gaming,Xbox Consoles,31231584,11701544,8334,Education
+2014,Microsoft,Europe,Gaming,Xbox Consoles,24654402,10538899,7031,Retail
+2017,Apple,Europe,Wearables,Fitness Bands,28931591,3247546,5135,Small & Medium Business
+2015,Microsoft,Europe,Hardware,PC Accessories,15263169,2262548,9570,Enterprise
+2017,Apple,Europe,Consumer Electronics,Tablets,6844534,1952674,7225,Education
+2020,Microsoft,North America,Gaming,Games,38166468,6830464,953,Retail
+2023,Apple,Global,Consumer Electronics,Smartphones,33584864,6022224,6040,Retail
+2023,Microsoft,Global,Software,Operating Systems,1939127,222262,2909,Retail
+2019,Apple,South America,Services,iCloud,31264822,3610551,3575,Enterprise
+2015,Apple,Global,Accessories,AirPods,34116629,10292003,6800,Enterprise
+2016,Microsoft,Africa,Software,Office Suite,15635938,3947673,8121,Enterprise
+2015,Microsoft,North America,Gaming,Xbox Consoles,39217945,5610664,1162,Enterprise
+2020,Apple,Europe,Accessories,AirPods,18982350,7000489,7431,Enterprise
+2015,Apple,North America,Accessories,Chargers,37317149,3976981,9876,Retail
+2015,Microsoft,North America,Gaming,Xbox Consoles,5950446,1564133,7873,Education
+2015,Apple,Africa,Wearables,Fitness Bands,16586972,1935082,3814,Enterprise
+2017,Apple,Europe,Services,iCloud,27441375,9286132,2652,Enterprise
+2022,Microsoft,Africa,Software,Operating Systems,45210655,21410165,2684,Enterprise
+2017,Apple,South America,Wearables,Apple Watch,18573547,4344447,6884,Education
+2021,Apple,Africa,Services,iCloud,19442283,7519454,9319,Education
+2015,Apple,South America,Services,iCloud,15400142,4920406,4686,Education
+2020,Microsoft,North America,Hardware,Surface Devices,2171133,270848,3428,Small & Medium Business
+2021,Apple,North America,Wearables,Fitness Bands,33110025,7154347,6221,Enterprise
+2019,Microsoft,Asia-Pacific,Software,Operating Systems,27762981,11085363,4382,Small & Medium Business
+2017,Microsoft,Europe,Software,Operating Systems,27558831,7959838,2004,Small & Medium Business
+2022,Microsoft,Europe,Cloud Services,Azure Subscriptions,16562178,6223002,9818,Retail
+2014,Apple,South America,Consumer Electronics,Tablets,32825545,3670564,4472,Retail
+2022,Microsoft,Africa,Hardware,PC Accessories,23536349,3100709,1120,Enterprise
+2019,Microsoft,Africa,Software,Office Suite,16936241,5565625,7793,Retail
+2018,Microsoft,Africa,Hardware,PC Accessories,35314428,11252851,5312,Retail
+2014,Microsoft,North America,Hardware,Surface Devices,43247376,20862265,1621,Retail
+2020,Apple,Global,Wearables,Apple Watch,21405725,3736841,4119,Enterprise
+2020,Microsoft,Africa,Software,Office Suite,38295756,9891659,7203,Small & Medium Business
+2023,Apple,Asia-Pacific,Services,iCloud,13612291,6105569,2866,Enterprise
+2016,Apple,Europe,Services,iCloud,37763649,8501198,8077,Small & Medium Business
+2023,Microsoft,North America,Gaming,Games,825126,239484,460,Education
+2015,Apple,Europe,Consumer Electronics,Tablets,46527555,14946279,5330,Enterprise
+2023,Microsoft,South America,Gaming,Xbox Consoles,5277571,1208857,7844,Retail
+2014,Microsoft,North America,Gaming,Games,45300803,20642739,9607,Small & Medium Business
+2020,Microsoft,South America,Software,Operating Systems,8551399,2483113,1036,Retail
+2021,Apple,North America,Accessories,Chargers,20589407,8571871,3115,Small & Medium Business
+2023,Microsoft,North America,Software,Operating Systems,31519326,4201913,7807,Retail
+2017,Microsoft,Europe,Hardware,PC Accessories,603726,272393,8383,Education
+2021,Microsoft,South America,Software,Operating Systems,27221552,12655299,9937,Retail
+2016,Apple,Europe,Wearables,Fitness Bands,16883236,5042137,362,Enterprise
+2022,Microsoft,Asia-Pacific,Gaming,Games,28466328,14001682,7765,Enterprise
+2020,Microsoft,Africa,Software,Office Suite,9694843,4574099,1930,Enterprise
+2015,Microsoft,Africa,Cloud Services,Azure Subscriptions,12177686,3117065,5237,Enterprise
+2019,Microsoft,South America,Hardware,PC Accessories,18922110,7161365,2166,Small & Medium Business
+2023,Apple,Africa,Accessories,AirPods,30848034,8527366,6973,Small & Medium Business
+2017,Apple,South America,Accessories,Chargers,13166064,1766627,2151,Retail
+2014,Microsoft,Global,Hardware,PC Accessories,11040206,3689352,1520,Retail
+2019,Microsoft,Europe,Gaming,Games,19875393,4269886,2189,Retail
+2017,Apple,Africa,Services,Apple Music,7127665,2512524,3989,Education
+2021,Apple,Europe,Consumer Electronics,Tablets,25484391,3583938,3749,Education
+2023,Microsoft,South America,Gaming,Games,40530320,19081673,1602,Small & Medium Business
+2022,Microsoft,North America,Hardware,PC Accessories,15392561,2288803,4974,Retail
+2020,Microsoft,North America,Gaming,Games,17328509,3177658,6781,Retail
+2022,Microsoft,North America,Software,Operating Systems,37784558,17298193,9691,Education
+2014,Apple,Africa,Wearables,Apple Watch,43148981,6857390,5641,Enterprise
+2022,Microsoft,Europe,Hardware,Surface Devices,10388415,2409190,4335,Enterprise
+2017,Microsoft,Asia-Pacific,Software,Operating Systems,4924276,1012628,5042,Education
+2014,Microsoft,Europe,Cloud Services,Enterprise Solutions,2664960,839849,9822,Retail
+2016,Apple,Asia-Pacific,Wearables,Fitness Bands,6280822,2221162,2512,Education
+2019,Apple,Global,Accessories,AirPods,32151789,9106897,536,Enterprise
+2016,Apple,Global,Consumer Electronics,Tablets,34338610,10672560,764,Small & Medium Business
+2014,Apple,Africa,Services,iCloud,18171130,6460296,6480,Enterprise
+2015,Apple,Asia-Pacific,Wearables,Apple Watch,42734987,8188441,1334,Small & Medium Business
+2021,Apple,Asia-Pacific,Consumer Electronics,Smartphones,28062940,5143921,5161,Education
+2015,Apple,North America,Consumer Electronics,Smartphones,14192710,3004391,2084,Retail
+2022,Apple,Global,Services,iCloud,31805624,7563694,5220,Enterprise
+2022,Apple,South America,Services,Apple Music,35409163,16313249,5873,Retail
+2022,Microsoft,South America,Software,Office Suite,3197570,999833,6378,Education
+2016,Apple,Africa,Accessories,AirPods,1490401,362294,5122,Retail
+2016,Microsoft,South America,Hardware,PC Accessories,39059705,5254854,6140,Enterprise
+2016,Microsoft,Asia-Pacific,Software,Operating Systems,11516545,1641324,5914,Retail
+2022,Microsoft,South America,Hardware,PC Accessories,36500283,15642355,8495,Enterprise
+2022,Microsoft,Asia-Pacific,Cloud Services,Azure Subscriptions,7990563,2062591,5694,Retail
+2018,Microsoft,South America,Software,Operating Systems,14962175,6113622,9185,Retail
+2014,Apple,Europe,Consumer Electronics,Smartphones,10410586,3641268,997,Education
+2019,Apple,Africa,Consumer Electronics,Tablets,5567519,2367919,7772,Enterprise
+2021,Apple,Europe,Services,iCloud,44004426,7604308,2253,Education
+2019,Apple,Global,Services,Apple Music,2092697,243413,989,Retail
+2021,Apple,Africa,Consumer Electronics,Tablets,42424519,7870968,9892,Enterprise
+2021,Apple,Europe,Services,iCloud,34650528,4985047,8663,Education
+2018,Apple,Asia-Pacific,Accessories,AirPods,558315,163671,8595,Retail
+2022,Apple,Global,Accessories,Chargers,35096471,14476835,2539,Enterprise
+2023,Apple,Asia-Pacific,Services,iCloud,29831519,9342686,2736,Education
+2022,Microsoft,Europe,Gaming,Games,38701248,8726063,4048,Enterprise
+2023,Microsoft,Asia-Pacific,Cloud Services,Azure Subscriptions,41920193,17980663,6022,Small & Medium Business
+2023,Microsoft,Asia-Pacific,Gaming,Games,44514368,10334769,701,Small & Medium Business
+2023,Apple,South America,Wearables,Fitness Bands,26115755,11721099,5672,Education
+2018,Microsoft,North America,Gaming,Games,14982065,5417166,9306,Education
+2022,Microsoft,Africa,Cloud Services,Enterprise Solutions,3848512,1647490,1604,Education
+2018,Apple,Europe,Services,iCloud,36185459,6670509,6727,Retail
+2022,Microsoft,Global,Cloud Services,Enterprise Solutions,48115533,6798731,5102,Retail
+2016,Apple,Asia-Pacific,Accessories,Chargers,14546866,2050492,8005,Retail
+2018,Microsoft,Global,Hardware,Surface Devices,7513699,2293373,6363,Enterprise
+2023,Apple,Global,Consumer Electronics,Smartphones,16574650,3006793,4481,Retail
+2015,Microsoft,North America,Gaming,Xbox Consoles,3870824,1392573,3701,Small & Medium Business
+2023,Apple,North America,Wearables,Apple Watch,43534091,17474210,2965,Small & Medium Business
+2017,Apple,Europe,Accessories,Chargers,49602276,8537705,9459,Small & Medium Business
+2019,Apple,Asia-Pacific,Services,Apple Music,7194771,3135495,3490,Education
+2022,Microsoft,Africa,Gaming,Games,42541157,8968445,3155,Retail
+2014,Microsoft,Africa,Cloud Services,Enterprise Solutions,11953444,3888464,7898,Retail
+2023,Apple,North America,Accessories,AirPods,18361188,6108540,1472,Retail
+2019,Apple,Europe,Services,Apple Music,26934103,6907217,8346,Enterprise
+2021,Apple,Global,Services,iCloud,6013075,2465723,466,Retail
+2015,Apple,North America,Services,Apple Music,3829599,1735794,3875,Small & Medium Business
+2020,Apple,South America,Wearables,Apple Watch,34943024,12916040,8100,Education
+2023,Apple,Africa,Accessories,Chargers,4161830,1195900,1669,Enterprise
+2014,Apple,North America,Wearables,Apple Watch,24081879,8886530,9158,Retail
+2017,Apple,North America,Services,Apple Music,47521645,13717299,8867,Small & Medium Business
+2022,Microsoft,Europe,Gaming,Xbox Consoles,25630709,7247767,6290,Retail
+2021,Microsoft,North America,Software,Office Suite,30947415,15139414,5910,Retail
+2018,Apple,Asia-Pacific,Wearables,Apple Watch,29633325,3575095,4668,Education
+2015,Microsoft,Asia-Pacific,Hardware,PC Accessories,20287254,9257738,1975,Enterprise
+2020,Microsoft,Asia-Pacific,Hardware,PC Accessories,30715806,3284776,3243,Small & Medium Business
+2015,Microsoft,South America,Hardware,Surface Devices,29142363,9693313,2958,Education
+2022,Apple,North America,Services,Apple Music,43158738,20017637,4428,Retail
+2016,Apple,South America,Accessories,AirPods,41206630,11571500,684,Small & Medium Business
+2016,Microsoft,North America,Hardware,PC Accessories,34527659,11704977,206,Retail
+2022,Apple,Europe,Services,Apple Music,12108183,2843262,8954,Small & Medium Business
+2022,Apple,Africa,Consumer Electronics,Smartphones,17713400,5583650,4883,Education
+2019,Apple,Asia-Pacific,Consumer Electronics,Tablets,7747956,3840763,2055,Small & Medium Business
+2021,Microsoft,South America,Cloud Services,Azure Subscriptions,18769351,3710869,5046,Small & Medium Business
+2017,Microsoft,Global,Software,Operating Systems,17216973,1906767,1558,Education
+2014,Apple,Europe,Services,Apple Music,6875191,2886258,1264,Enterprise
+2017,Microsoft,Europe,Cloud Services,Enterprise Solutions,12496574,2946413,1428,Enterprise
+2014,Apple,Africa,Wearables,Fitness Bands,36245322,6410836,9622,Retail
+2015,Apple,Africa,Wearables,Fitness Bands,36581867,4162588,7200,Retail
+2018,Microsoft,Europe,Gaming,Games,41245951,11404191,9603,Small & Medium Business
+2023,Apple,South America,Consumer Electronics,Tablets,20221267,6534404,3830,Education
+2014,Apple,South America,Consumer Electronics,Tablets,4101447,1409392,9860,Small & Medium Business
+2022,Microsoft,North America,Software,Office Suite,36670192,6230353,9716,Enterprise
+2017,Microsoft,Africa,Software,Office Suite,3984137,845810,5765,Retail
+2016,Microsoft,Asia-Pacific,Software,Office Suite,25324495,8310922,5450,Enterprise
+2023,Apple,Africa,Wearables,Fitness Bands,34663255,16976418,7477,Enterprise
+2020,Microsoft,Asia-Pacific,Cloud Services,Enterprise Solutions,12588106,2604761,8928,Retail
+2014,Apple,Asia-Pacific,Services,Apple Music,18999332,8917207,4637,Education
+2015,Apple,Global,Wearables,Apple Watch,40581754,8307300,5721,Enterprise
+2014,Apple,South America,Accessories,AirPods,8309480,1286718,3178,Education
+2018,Apple,North America,Consumer Electronics,Tablets,33974592,4373103,286,Education
+2023,Microsoft,South America,Cloud Services,Enterprise Solutions,27056029,3236621,1627,Education
+2016,Apple,Asia-Pacific,Wearables,Fitness Bands,41929299,10139349,9815,Retail
+2023,Apple,Asia-Pacific,Services,iCloud,11726838,3214290,1176,Retail
+2019,Apple,North America,Consumer Electronics,Tablets,30727443,4480851,6715,Retail
+2015,Apple,Africa,Wearables,Fitness Bands,2666796,1318349,9558,Small & Medium Business
+2023,Apple,North America,Accessories,AirPods,47079510,16507027,602,Education
+2016,Apple,North America,Accessories,AirPods,36692761,9762280,7526,Education
+2016,Microsoft,Europe,Hardware,PC Accessories,23857792,3253231,6868,Small & Medium Business
+2016,Microsoft,South America,Gaming,Xbox Consoles,40786919,5885133,8392,Education
+2023,Microsoft,Global,Hardware,Surface Devices,15147287,4015775,4448,Enterprise
+2022,Microsoft,Global,Cloud Services,Azure Subscriptions,43056684,13322538,4730,Small & Medium Business
+2016,Apple,Africa,Accessories,Chargers,44721433,9233971,2417,Retail
+2018,Apple,South America,Accessories,Chargers,44193139,12430725,7159,Small & Medium Business
+2018,Apple,Asia-Pacific,Services,Apple Music,49596396,18985715,4265,Retail
+2014,Microsoft,Africa,Gaming,Games,15905392,3763026,9015,Education
+2023,Microsoft,Europe,Software,Office Suite,47233554,5414462,8492,Education
+2016,Microsoft,Asia-Pacific,Software,Office Suite,20433639,9542890,9987,Small & Medium Business
+2018,Microsoft,Global,Cloud Services,Enterprise Solutions,45819916,6867245,5194,Education
+2019,Microsoft,Europe,Gaming,Games,38182905,12040904,7656,Enterprise
+2023,Microsoft,Europe,Cloud Services,Azure Subscriptions,11402357,5557146,4974,Education
+2019,Microsoft,Europe,Software,Office Suite,32514100,6054070,2778,Enterprise
+2017,Apple,Africa,Wearables,Apple Watch,731604,248893,6814,Enterprise
+2023,Microsoft,Europe,Software,Operating Systems,6774570,1476195,1971,Enterprise
+2015,Apple,Asia-Pacific,Accessories,Chargers,41401172,7080526,9362,Retail
+2023,Apple,North America,Accessories,Chargers,31942471,6452103,9299,Education
+2022,Microsoft,Asia-Pacific,Gaming,Games,17864909,4441068,388,Small & Medium Business
+2017,Microsoft,South America,Software,Office Suite,10011559,2714904,2842,Small & Medium Business
+2016,Apple,North America,Services,iCloud,2355350,789565,8394,Retail
+2017,Microsoft,Global,Software,Office Suite,42811212,12725466,6178,Small & Medium Business
+2021,Apple,North America,Services,iCloud,29757265,6674743,1617,Education
+2018,Microsoft,Global,Software,Office Suite,42842393,10029540,1010,Enterprise
+2020,Microsoft,North America,Cloud Services,Azure Subscriptions,47723621,15036540,8121,Education
+2020,Apple,South America,Consumer Electronics,Tablets,4818429,2260022,6047,Enterprise
+2017,Microsoft,Global,Software,Office Suite,8765056,3485875,7853,Retail
+2019,Apple,North America,Accessories,Chargers,48711989,11130544,5835,Small & Medium Business
+2017,Microsoft,North America,Gaming,Xbox Consoles,20245653,6434873,8920,Education
+2017,Apple,North America,Wearables,Fitness Bands,10567292,2555866,9128,Enterprise
+2021,Microsoft,South America,Gaming,Xbox Consoles,2326503,631078,722,Small & Medium Business
+2017,Microsoft,Asia-Pacific,Hardware,PC Accessories,10095015,2166435,9547,Education
+2019,Microsoft,Global,Hardware,PC Accessories,38879859,6550780,2138,Enterprise
+2017,Microsoft,Europe,Hardware,Surface Devices,17862282,6518177,4851,Enterprise
+2021,Microsoft,Asia-Pacific,Hardware,PC Accessories,42170417,16801165,5681,Education
+2018,Apple,Africa,Consumer Electronics,Tablets,33770658,11303887,5281,Retail
+2021,Microsoft,Europe,Cloud Services,Enterprise Solutions,33272665,7737916,8921,Small & Medium Business
+2017,Microsoft,Europe,Hardware,Surface Devices,13313689,6604706,2596,Education
+2014,Apple,Asia-Pacific,Wearables,Fitness Bands,14227258,6605811,3885,Small & Medium Business
+2016,Apple,Global,Wearables,Apple Watch,28120049,13057677,3046,Retail
+2014,Microsoft,North America,Gaming,Games,40991212,18030369,5194,Retail
+2020,Apple,Asia-Pacific,Services,iCloud,26445732,12839239,9279,Small & Medium Business
+2022,Microsoft,Europe,Cloud Services,Enterprise Solutions,26198619,11984824,8364,Small & Medium Business
+2021,Apple,Global,Consumer Electronics,Smartphones,46906797,16009691,711,Retail
+2016,Apple,Africa,Wearables,Fitness Bands,12091850,4127046,309,Small & Medium Business
+2015,Microsoft,Global,Gaming,Xbox Consoles,13383405,5893477,9080,Education
+2023,Apple,Global,Services,Apple Music,45386718,10676879,2480,Enterprise
+2014,Microsoft,Asia-Pacific,Hardware,PC Accessories,17378219,6641992,2259,Small & Medium Business
+2023,Apple,Global,Consumer Electronics,Smartphones,17625826,7466160,8127,Retail
+2021,Apple,Global,Consumer Electronics,Tablets,32797475,9427393,9599,Retail
+2015,Microsoft,South America,Software,Office Suite,21211101,10478653,7827,Small & Medium Business
+2019,Apple,Europe,Wearables,Fitness Bands,4184443,1557387,5076,Education
+2018,Apple,North America,Consumer Electronics,Tablets,4139919,921396,9146,Enterprise
+2019,Apple,South America,Accessories,AirPods,3047666,859248,8947,Small & Medium Business
+2014,Apple,Global,Services,Apple Music,47801705,9199275,7703,Retail
+2021,Apple,Africa,Accessories,AirPods,8255958,3447274,2146,Retail
+2019,Microsoft,Africa,Hardware,PC Accessories,14321838,6925055,1295,Small & Medium Business
+2021,Microsoft,Global,Hardware,Surface Devices,47357428,11426873,2159,Education
+2021,Microsoft,Europe,Gaming,Games,29023033,12676286,8973,Small & Medium Business
+2023,Microsoft,Africa,Software,Operating Systems,16226755,3712420,9934,Retail
+2022,Apple,Asia-Pacific,Wearables,Fitness Bands,5077241,1311071,7530,Retail
+2016,Apple,Europe,Wearables,Fitness Bands,10883430,1918076,241,Small & Medium Business
+2015,Microsoft,North America,Cloud Services,Azure Subscriptions,20231930,8744291,4983,Retail
+2018,Microsoft,Europe,Software,Operating Systems,1162566,525790,6511,Enterprise
+2022,Apple,Global,Consumer Electronics,Smartphones,13684263,6512730,1292,Enterprise
+2019,Apple,Africa,Accessories,Chargers,10111630,3213917,3582,Education
+2016,Apple,Africa,Consumer Electronics,Tablets,49119340,13240336,4506,Enterprise
+2016,Apple,Africa,Accessories,AirPods,979900,318113,7079,Education
+2016,Apple,North America,Accessories,AirPods,32259586,11498205,675,Education
+2016,Apple,Asia-Pacific,Accessories,Chargers,41530254,16826026,8924,Education
+2016,Microsoft,Africa,Software,Operating Systems,38652616,18261266,7133,Small & Medium Business
+2022,Apple,North America,Services,Apple Music,34371007,9308083,5010,Education
+2021,Apple,Global,Services,iCloud,9060767,3634715,7447,Retail
+2020,Microsoft,Africa,Gaming,Games,46161349,18012179,7084,Education
+2022,Apple,Asia-Pacific,Consumer Electronics,Smartphones,6953192,2973873,2884,Education
+2023,Apple,Global,Wearables,Fitness Bands,44317894,15810533,9435,Retail
+2016,Microsoft,South America,Cloud Services,Azure Subscriptions,49752313,16433618,7822,Enterprise
+2018,Microsoft,Europe,Hardware,PC Accessories,33624250,7114995,126,Enterprise
+2015,Microsoft,North America,Hardware,PC Accessories,25142440,6339139,5080,Enterprise
+2020,Apple,Global,Consumer Electronics,Smartphones,2597600,888565,9535,Enterprise
+2015,Microsoft,South America,Gaming,Xbox Consoles,33188171,12213354,1012,Small & Medium Business
+2021,Microsoft,South America,Software,Operating Systems,30948639,7215838,8383,Enterprise
+2018,Microsoft,Europe,Software,Operating Systems,25792515,8815786,4854,Enterprise
+2017,Microsoft,Europe,Gaming,Xbox Consoles,48056301,21080626,2347,Education
+2022,Microsoft,Global,Gaming,Games,22630876,10348820,7020,Enterprise
+2016,Microsoft,North America,Gaming,Xbox Consoles,25104359,7290116,1490,Retail
+2017,Apple,Europe,Consumer Electronics,Smartphones,27590457,10866653,100,Education
+2021,Microsoft,Europe,Software,Operating Systems,21438580,5895962,1584,Enterprise
+2018,Apple,Africa,Wearables,Fitness Bands,30446488,11115548,8032,Retail
+2022,Apple,Global,Consumer Electronics,Smartphones,29961657,8225043,8498,Retail
+2014,Microsoft,Europe,Gaming,Xbox Consoles,28855768,5141436,2584,Enterprise
+2014,Apple,Asia-Pacific,Services,Apple Music,15095540,6034159,1139,Enterprise
+2016,Apple,South America,Services,Apple Music,29160127,4762626,4583,Small & Medium Business
+2023,Microsoft,North America,Cloud Services,Enterprise Solutions,3523291,1399254,6034,Retail
+2021,Apple,South America,Wearables,Apple Watch,24251374,2566089,5969,Retail
+2021,Microsoft,Africa,Hardware,PC Accessories,20277687,8547241,1625,Retail
+2017,Microsoft,Global,Software,Office Suite,34267905,13265816,7070,Education
+2017,Microsoft,South America,Software,Operating Systems,9862211,1737620,2010,Education
+2017,Apple,North America,Wearables,Apple Watch,42410889,12077436,5406,Education
+2015,Apple,South America,Services,Apple Music,3705743,1287336,9102,Retail
+2019,Microsoft,Global,Cloud Services,Enterprise Solutions,24279082,8317460,1446,Small & Medium Business
+2022,Microsoft,Global,Gaming,Games,40150649,8889956,1433,Retail
+2017,Microsoft,Africa,Software,Office Suite,42820969,8428104,8982,Retail
+2023,Microsoft,Africa,Gaming,Xbox Consoles,31820894,11017460,3149,Education
+2023,Microsoft,North America,Cloud Services,Enterprise Solutions,40564061,10554969,5035,Education
+2018,Apple,South America,Wearables,Apple Watch,47316290,23146496,3846,Small & Medium Business
+2015,Microsoft,Africa,Software,Office Suite,35368187,16634823,8141,Small & Medium Business
+2016,Microsoft,Asia-Pacific,Software,Operating Systems,21538257,9027995,7907,Enterprise
+2021,Apple,Africa,Wearables,Apple Watch,30647961,11437721,1665,Retail
+2014,Apple,Asia-Pacific,Services,Apple Music,2144402,451880,7292,Retail
+2017,Apple,South America,Accessories,Chargers,34072439,11678584,4585,Education
+2020,Apple,South America,Services,Apple Music,6581123,3269902,7061,Enterprise
+2023,Apple,Africa,Wearables,Fitness Bands,27196498,2733667,6662,Education
+2020,Apple,Asia-Pacific,Accessories,Chargers,44790918,13332338,8748,Education
+2016,Microsoft,South America,Hardware,Surface Devices,13484206,4603428,7739,Small & Medium Business
+2020,Microsoft,North America,Software,Office Suite,22722334,5618595,3932,Education
+2015,Apple,South America,Services,iCloud,24801294,5595860,8465,Retail
+2015,Microsoft,North America,Hardware,PC Accessories,16667877,1996420,695,Education
+2014,Microsoft,Africa,Software,Office Suite,3809547,1256382,9981,Retail
+2017,Microsoft,North America,Hardware,PC Accessories,38622322,9623789,9142,Enterprise
+2022,Microsoft,South America,Gaming,Xbox Consoles,21370348,5852768,3348,Retail
+2019,Microsoft,South America,Software,Office Suite,28644137,11810087,432,Retail
+2021,Apple,Africa,Accessories,AirPods,8746429,4157450,7850,Enterprise
+2023,Microsoft,South America,Hardware,Surface Devices,30538068,14974946,9086,Retail
+2022,Apple,Asia-Pacific,Services,iCloud,45770511,8111923,1566,Retail
+2014,Apple,North America,Accessories,AirPods,45836834,14163795,9906,Enterprise
+2015,Apple,Global,Consumer Electronics,Tablets,41674228,11900725,5297,Enterprise
+2018,Apple,North America,Services,iCloud,9539728,1226462,7342,Education
+2017,Apple,Europe,Wearables,Apple Watch,32302573,4703086,9102,Retail
+2016,Apple,Europe,Services,Apple Music,42525219,6758040,247,Education
+2021,Apple,South America,Consumer Electronics,Tablets,49449258,18749948,6481,Small & Medium Business
+2018,Microsoft,Europe,Hardware,PC Accessories,2909657,636527,3394,Retail
+2018,Apple,Asia-Pacific,Consumer Electronics,Tablets,38722810,13760135,3011,Enterprise
+2017,Apple,South America,Wearables,Apple Watch,30160895,5891006,947,Education
+2019,Microsoft,Africa,Gaming,Games,33634162,9758370,2520,Education
+2014,Apple,South America,Wearables,Fitness Bands,44773348,17792567,9639,Education
+2022,Microsoft,Global,Hardware,PC Accessories,40802551,10418499,225,Retail
+2019,Microsoft,Europe,Gaming,Xbox Consoles,22556338,2695066,8858,Retail
+2019,Apple,Global,Wearables,Fitness Bands,25941029,7517333,2111,Retail
+2016,Apple,Asia-Pacific,Accessories,Chargers,686360,268337,7976,Education
+2016,Microsoft,North America,Cloud Services,Enterprise Solutions,29889978,13745859,3722,Education
+2017,Apple,Europe,Services,Apple Music,43757951,21354625,6153,Education
+2019,Apple,Africa,Accessories,Chargers,19545172,2235479,5258,Small & Medium Business
+2014,Apple,Global,Accessories,AirPods,15888342,2270534,5002,Retail
+2016,Apple,Europe,Consumer Electronics,Tablets,4129639,952427,5613,Retail
+2019,Microsoft,Europe,Software,Operating Systems,35841205,4399330,6561,Enterprise
+2016,Microsoft,Europe,Gaming,Xbox Consoles,43191648,16336937,6767,Retail
+2018,Apple,North America,Consumer Electronics,Smartphones,15783208,4122627,9033,Retail
+2023,Microsoft,South America,Gaming,Games,15170372,7562547,6439,Small & Medium Business
+2016,Microsoft,Europe,Gaming,Games,39450921,4448288,7207,Enterprise
+2017,Microsoft,Global,Cloud Services,Azure Subscriptions,17102769,3380847,6616,Small & Medium Business
+2017,Apple,Europe,Services,iCloud,4259430,452630,2745,Small & Medium Business
+2014,Microsoft,South America,Cloud Services,Azure Subscriptions,47065669,21125703,2632,Enterprise
+2016,Microsoft,Asia-Pacific,Hardware,PC Accessories,43208913,8109980,7789,Enterprise
+2023,Apple,Asia-Pacific,Accessories,Chargers,23007863,9524672,7845,Small & Medium Business
+2014,Microsoft,South America,Software,Operating Systems,38163593,5631435,6968,Enterprise
+2020,Microsoft,Africa,Software,Office Suite,37928300,8420062,2331,Education
+2015,Microsoft,North America,Gaming,Xbox Consoles,24616555,8600140,7137,Small & Medium Business
+2015,Apple,North America,Accessories,AirPods,11367985,4073041,9419,Small & Medium Business
+2016,Apple,North America,Services,iCloud,36758954,10608180,9866,Small & Medium Business
+2014,Microsoft,Global,Gaming,Xbox Consoles,20859054,2319859,3106,Retail
+2017,Apple,Europe,Wearables,Fitness Bands,18246655,2011712,3976,Retail
+2022,Microsoft,Global,Hardware,Surface Devices,37112176,16717763,8551,Retail
+2021,Microsoft,Africa,Software,Operating Systems,23575403,8605767,7180,Education
+2022,Microsoft,Africa,Cloud Services,Azure Subscriptions,48363831,19708223,3412,Retail
+2015,Apple,South America,Services,Apple Music,22925384,4034583,8573,Education
+2019,Microsoft,North America,Cloud Services,Azure Subscriptions,3673821,841563,9348,Retail
+2023,Microsoft,Europe,Cloud Services,Enterprise Solutions,40490323,4566527,9366,Retail
+2023,Apple,Global,Services,iCloud,46750066,6392717,7574,Enterprise
+2016,Microsoft,Europe,Hardware,Surface Devices,15875977,5900131,4504,Education
+2016,Apple,North America,Consumer Electronics,Smartphones,12286280,3326400,2040,Retail
+2014,Apple,Global,Accessories,AirPods,29988999,5066831,6293,Enterprise
+2021,Apple,North America,Accessories,AirPods,34249824,12412159,7894,Retail
+2020,Apple,Global,Consumer Electronics,Smartphones,20819935,7783828,4873,Retail
+2019,Apple,Asia-Pacific,Consumer Electronics,Smartphones,21258383,3911407,8480,Education
+2015,Apple,South America,Services,Apple Music,14474545,1768787,5326,Education
+2015,Apple,South America,Accessories,AirPods,17839965,3768147,2626,Education
+2021,Apple,Global,Wearables,Apple Watch,38633521,14928555,1603,Retail
+2018,Microsoft,Africa,Gaming,Xbox Consoles,32876459,3689222,4396,Retail
+2015,Microsoft,Europe,Hardware,Surface Devices,8567681,4240290,9046,Enterprise
+2015,Microsoft,Europe,Software,Office Suite,4672338,1017710,2167,Enterprise
+2018,Microsoft,Asia-Pacific,Cloud Services,Enterprise Solutions,41092308,5546289,210,Enterprise
+2021,Apple,Europe,Services,Apple Music,49110374,9249861,2891,Enterprise
+2021,Apple,South America,Accessories,AirPods,49906273,7632081,6108,Small & Medium Business
+2020,Microsoft,Asia-Pacific,Software,Operating Systems,41763940,5991599,5187,Education
+2019,Apple,Africa,Accessories,AirPods,31656289,6461426,6481,Small & Medium Business
+2020,Apple,Europe,Wearables,Apple Watch,40927609,5452954,2566,Enterprise
+2023,Microsoft,North America,Hardware,Surface Devices,39230458,6685677,1427,Small & Medium Business
+2015,Microsoft,Global,Software,Operating Systems,20899833,2538578,3492,Education
+2020,Apple,Europe,Services,iCloud,43285821,11783172,4453,Retail
+2018,Apple,Global,Wearables,Apple Watch,17762463,3915646,374,Retail
+2019,Apple,Asia-Pacific,Accessories,Chargers,6296776,1868732,3360,Education
+2017,Apple,Europe,Wearables,Fitness Bands,33420811,9947940,4539,Enterprise
+2019,Apple,South America,Wearables,Fitness Bands,21886019,8222894,1381,Education
+2020,Microsoft,North America,Cloud Services,Azure Subscriptions,6486113,2990428,5357,Retail
+2015,Apple,Asia-Pacific,Consumer Electronics,Smartphones,15408829,3143161,5261,Education
+2022,Microsoft,North America,Gaming,Xbox Consoles,47610627,10516433,9243,Retail
+2017,Microsoft,Global,Gaming,Xbox Consoles,14745339,4134826,4964,Small & Medium Business
+2014,Apple,North America,Wearables,Apple Watch,18698843,5510960,356,Retail
+2022,Apple,Europe,Wearables,Fitness Bands,31618325,6609516,6921,Retail
+2017,Microsoft,South America,Software,Operating Systems,46367940,8594858,7261,Enterprise
+2021,Microsoft,Europe,Cloud Services,Azure Subscriptions,29487654,13726697,9713,Retail
+2014,Microsoft,South America,Cloud Services,Azure Subscriptions,30378083,8017939,3746,Enterprise
+2019,Apple,Asia-Pacific,Consumer Electronics,Smartphones,16238390,4729640,273,Small & Medium Business
+2016,Microsoft,Asia-Pacific,Hardware,PC Accessories,34851267,9910700,2453,Retail
+2020,Apple,Global,Accessories,Chargers,47366010,12181884,5911,Education
+2022,Microsoft,North America,Cloud Services,Azure Subscriptions,2308579,1141627,6520,Enterprise
+2023,Microsoft,Africa,Hardware,PC Accessories,17951367,2420551,1012,Small & Medium Business
+2014,Apple,South America,Accessories,Chargers,27740972,10510913,3347,Enterprise
+2014,Microsoft,Africa,Software,Operating Systems,48727751,8368518,2078,Enterprise
+2015,Apple,South America,Consumer Electronics,Tablets,40948561,8016558,8707,Education
+2014,Microsoft,South America,Gaming,Xbox Consoles,2008567,392785,9446,Small & Medium Business
+2023,Microsoft,Global,Hardware,PC Accessories,42841744,15014093,6650,Small & Medium Business
+2023,Apple,Africa,Wearables,Fitness Bands,10859634,4407815,9125,Small & Medium Business
+2020,Apple,Europe,Services,Apple Music,31212021,3310278,1359,Enterprise
+2021,Apple,North America,Consumer Electronics,Smartphones,13834207,5733662,2058,Small & Medium Business
+2016,Apple,North America,Consumer Electronics,Tablets,10922767,5102270,6094,Small & Medium Business
+2018,Microsoft,Global,Software,Operating Systems,24066619,2640091,5200,Education
+2015,Microsoft,Europe,Cloud Services,Azure Subscriptions,2424599,649967,4749,Retail
+2018,Microsoft,South America,Software,Office Suite,28504649,8575064,3417,Education
+2019,Apple,Africa,Accessories,AirPods,1018733,104813,8801,Enterprise
+2018,Microsoft,Africa,Cloud Services,Enterprise Solutions,31602644,8206718,2109,Retail
+2023,Microsoft,South America,Gaming,Games,28290694,7949526,8440,Education
+2021,Microsoft,North America,Software,Office Suite,8550200,3761489,3676,Education
+2015,Apple,North America,Accessories,Chargers,10121872,1739104,7140,Enterprise
+2014,Microsoft,North America,Cloud Services,Enterprise Solutions,26042810,7170001,2092,Education
+2017,Microsoft,Africa,Cloud Services,Azure Subscriptions,28313907,4870242,7316,Education
+2021,Microsoft,South America,Gaming,Xbox Consoles,28026251,9505019,1142,Education
+2023,Apple,Global,Consumer Electronics,Tablets,10221420,2699915,6586,Small & Medium Business
+2019,Apple,Europe,Consumer Electronics,Smartphones,5080583,2399116,4020,Small & Medium Business
+2018,Apple,Africa,Services,Apple Music,35336191,8078944,4989,Retail
+2022,Microsoft,Global,Gaming,Games,37899395,14247666,4608,Retail
+2017,Apple,North America,Services,Apple Music,14211685,6647202,1060,Retail
+2023,Microsoft,Africa,Cloud Services,Enterprise Solutions,24811863,4123357,7181,Small & Medium Business
+2014,Microsoft,Global,Cloud Services,Enterprise Solutions,44504148,11112726,9292,Retail
+2023,Apple,Africa,Services,Apple Music,8140583,2189498,1089,Education
+2015,Apple,North America,Services,iCloud,16617209,5672190,4805,Education
+2020,Microsoft,Global,Software,Operating Systems,41424590,16289899,7582,Small & Medium Business
+2015,Apple,South America,Services,Apple Music,31639441,4862062,5868,Small & Medium Business
+2016,Microsoft,Global,Cloud Services,Enterprise Solutions,12289757,1358676,3707,Education
+2016,Microsoft,South America,Hardware,PC Accessories,29873382,6987682,4037,Small & Medium Business
+2016,Microsoft,South America,Hardware,PC Accessories,45473791,4740265,6040,Enterprise
+2016,Apple,Asia-Pacific,Wearables,Fitness Bands,12304543,2470622,9220,Enterprise
+2017,Apple,Asia-Pacific,Accessories,AirPods,9737697,1060531,5806,Enterprise
+2014,Microsoft,Global,Gaming,Xbox Consoles,49142206,8281631,4496,Retail
+2014,Apple,South America,Wearables,Apple Watch,33696380,8106874,2717,Small & Medium Business
+2017,Apple,Global,Consumer Electronics,Tablets,13625009,4400786,8310,Enterprise
+2022,Apple,North America,Wearables,Fitness Bands,49555341,14349422,7564,Education
+2020,Apple,Asia-Pacific,Accessories,Chargers,6683063,2335343,7414,Enterprise
+2016,Apple,South America,Services,iCloud,16167465,3857872,3124,Retail
+2020,Microsoft,North America,Hardware,Surface Devices,7997707,3121860,360,Small & Medium Business
+2017,Apple,Africa,Wearables,Fitness Bands,27637807,11877294,3067,Education
+2019,Microsoft,South America,Gaming,Games,35548645,11252455,3720,Retail
+2014,Apple,North America,Accessories,Chargers,47368993,7798849,6438,Education
+2015,Microsoft,North America,Software,Operating Systems,12169624,5046794,9576,Enterprise
+2018,Apple,Africa,Services,iCloud,24917260,2682194,4220,Education
+2023,Apple,Global,Consumer Electronics,Tablets,13346132,3125767,7616,Retail
+2014,Apple,Europe,Accessories,AirPods,37630363,10187158,3453,Small & Medium Business
+2022,Microsoft,Africa,Hardware,Surface Devices,44634534,17645589,1061,Enterprise
+2021,Apple,Europe,Services,iCloud,4620593,2049232,5197,Small & Medium Business
+2017,Microsoft,Global,Cloud Services,Enterprise Solutions,11690534,1522872,7250,Enterprise
+2019,Microsoft,South America,Gaming,Xbox Consoles,42136013,5220927,4166,Retail
+2019,Apple,Africa,Accessories,AirPods,13702930,2962332,7805,Small & Medium Business
+2019,Microsoft,Africa,Hardware,Surface Devices,44845691,12094207,2710,Small & Medium Business
+2017,Microsoft,North America,Cloud Services,Enterprise Solutions,37745274,13837023,7820,Small & Medium Business
+2021,Microsoft,North America,Software,Office Suite,48767543,20758086,4718,Education
+2022,Microsoft,Africa,Gaming,Xbox Consoles,31107197,5086526,4808,Retail
+2017,Apple,South America,Services,iCloud,1756146,226692,9557,Education
+2020,Apple,Global,Accessories,AirPods,47601796,6967101,6024,Education
+2017,Microsoft,South America,Cloud Services,Azure Subscriptions,49164264,14087551,3870,Small & Medium Business
+2017,Apple,Global,Services,Apple Music,1661323,494259,1973,Small & Medium Business
+2021,Microsoft,Europe,Software,Office Suite,31252512,10417173,9394,Education
+2016,Microsoft,Africa,Software,Office Suite,26269652,12077212,9116,Education
+2021,Apple,Europe,Accessories,Chargers,44015379,6518025,1483,Small & Medium Business
+2020,Microsoft,Global,Cloud Services,Enterprise Solutions,45353972,4730322,5608,Small & Medium Business
+2015,Apple,South America,Accessories,Chargers,9388106,2343149,3885,Enterprise
+2022,Microsoft,Europe,Cloud Services,Enterprise Solutions,18512425,2119819,8024,Retail
+2022,Apple,Africa,Wearables,Fitness Bands,38351896,7897209,2187,Small & Medium Business
+2020,Apple,South America,Services,iCloud,29752985,10618821,380,Retail
+2020,Apple,South America,Wearables,Fitness Bands,36449888,9290965,4166,Retail
+2022,Apple,South America,Services,iCloud,2210792,757651,7404,Enterprise
+2023,Apple,Global,Wearables,Fitness Bands,38890509,15685105,648,Education
+2023,Apple,Asia-Pacific,Wearables,Fitness Bands,3350092,477944,445,Education
+2017,Microsoft,Europe,Hardware,PC Accessories,22221034,4513184,3716,Enterprise
+2021,Apple,North America,Accessories,Chargers,23687773,7683523,3854,Education
+2016,Microsoft,Global,Software,Operating Systems,44097948,18442973,8059,Enterprise
+2020,Apple,Asia-Pacific,Consumer Electronics,Smartphones,1086112,123045,6098,Retail
+2015,Apple,Asia-Pacific,Accessories,Chargers,21920755,2911054,7753,Enterprise
+2022,Microsoft,North America,Gaming,Games,18583013,3262350,3491,Retail
+2018,Microsoft,Africa,Gaming,Xbox Consoles,15584832,2106495,1077,Education
+2018,Microsoft,Asia-Pacific,Gaming,Xbox Consoles,36819180,10891439,7263,Enterprise
+2016,Microsoft,Global,Hardware,PC Accessories,48816014,9890047,1632,Education
+2014,Apple,North America,Wearables,Fitness Bands,17818032,6316835,2367,Education
+2015,Microsoft,Asia-Pacific,Gaming,Xbox Consoles,6320368,2137905,6749,Small & Medium Business
+2019,Microsoft,South America,Cloud Services,Enterprise Solutions,20764451,8765125,1857,Retail
+2022,Apple,Europe,Consumer Electronics,Smartphones,7652968,2930689,4739,Education
+2023,Apple,Africa,Accessories,AirPods,15331935,5425081,1813,Enterprise
+2020,Apple,Asia-Pacific,Services,iCloud,29491148,3594398,2169,Enterprise
+2014,Apple,Global,Consumer Electronics,Tablets,23705535,10067735,4103,Enterprise
+2014,Apple,North America,Services,Apple Music,28880721,9951486,3947,Retail
+2015,Microsoft,North America,Cloud Services,Azure Subscriptions,48888889,6045063,9373,Small & Medium Business
+2014,Microsoft,North America,Software,Operating Systems,987383,415346,1774,Retail
+2022,Microsoft,Global,Cloud Services,Azure Subscriptions,45782644,10325967,6580,Education
+2015,Microsoft,Africa,Software,Office Suite,28977888,11424089,3484,Small & Medium Business
+2021,Microsoft,Africa,Gaming,Games,4491962,2202863,6884,Enterprise
+2022,Microsoft,Europe,Cloud Services,Enterprise Solutions,44319937,20024979,2914,Small & Medium Business
+2017,Microsoft,Europe,Hardware,Surface Devices,18132581,4261615,470,Enterprise
+2015,Microsoft,North America,Hardware,Surface Devices,14933639,1834094,7264,Retail
+2016,Apple,Europe,Consumer Electronics,Tablets,35962724,8988690,6649,Enterprise
+2017,Apple,Africa,Wearables,Fitness Bands,24614886,8444065,5950,Small & Medium Business
+2018,Microsoft,Asia-Pacific,Gaming,Games,3247503,395653,3550,Small & Medium Business
+2019,Apple,South America,Accessories,Chargers,46425774,18919762,2208,Education
+2017,Microsoft,North America,Software,Office Suite,45073574,20457591,4610,Education
+2018,Apple,South America,Services,iCloud,2877012,1275753,878,Small & Medium Business
+2021,Apple,Africa,Wearables,Fitness Bands,44752271,20042079,8049,Small & Medium Business
+2018,Microsoft,Global,Cloud Services,Azure Subscriptions,16416164,8202625,5928,Small & Medium Business
+2018,Apple,Global,Wearables,Fitness Bands,6689707,974769,4928,Retail
+2017,Apple,North America,Services,Apple Music,24844322,11769665,8852,Small & Medium Business
+2021,Apple,North America,Wearables,Fitness Bands,22087154,6364407,8164,Enterprise
+2015,Microsoft,Europe,Gaming,Games,28011435,8708583,1815,Enterprise
+2015,Apple,Europe,Services,iCloud,30887525,10261052,5992,Small & Medium Business
+2023,Microsoft,Global,Cloud Services,Enterprise Solutions,1403966,564475,4128,Retail
+2021,Microsoft,Asia-Pacific,Hardware,PC Accessories,3886387,553225,170,Retail
+2017,Apple,Asia-Pacific,Consumer Electronics,Smartphones,19822278,9821730,1850,Enterprise
+2017,Microsoft,Africa,Hardware,PC Accessories,18418222,6655203,7293,Enterprise
+2015,Apple,South America,Accessories,Chargers,19345208,5017345,4422,Education
+2023,Microsoft,North America,Hardware,Surface Devices,46240925,10006602,6802,Retail
+2016,Apple,South America,Accessories,AirPods,21467259,4236365,9761,Education
+2014,Apple,North America,Wearables,Apple Watch,5260289,2575534,6243,Small & Medium Business
+2015,Microsoft,Africa,Gaming,Xbox Consoles,34268230,12308373,893,Education
+2015,Microsoft,Asia-Pacific,Gaming,Xbox Consoles,41250245,4133601,8147,Education
+2020,Apple,Global,Wearables,Fitness Bands,17919674,8058936,183,Retail
+2019,Apple,North America,Consumer Electronics,Tablets,25928900,8858969,7551,Enterprise
+2023,Microsoft,Europe,Gaming,Xbox Consoles,30356811,13641957,385,Enterprise
+2015,Apple,North America,Accessories,AirPods,29645111,7465183,9038,Education
+2017,Apple,Asia-Pacific,Services,Apple Music,19398159,7703530,2948,Enterprise
+2018,Microsoft,Africa,Cloud Services,Enterprise Solutions,24562473,10827905,1931,Enterprise
+2015,Apple,Africa,Wearables,Fitness Bands,38041792,7224838,9606,Education
+2015,Microsoft,Europe,Hardware,PC Accessories,10410344,4801186,6936,Retail
+2015,Apple,Global,Wearables,Fitness Bands,44925878,19407512,399,Retail
+2023,Apple,Global,Services,Apple Music,6577719,3204389,2348,Retail
+2017,Apple,North America,Consumer Electronics,Smartphones,27617672,5254844,7541,Retail
+2020,Microsoft,Asia-Pacific,Gaming,Games,18177095,2220753,5481,Retail
+2014,Microsoft,Asia-Pacific,Gaming,Xbox Consoles,13952125,4155928,2569,Education
+2022,Microsoft,Europe,Hardware,PC Accessories,26112775,9969929,2847,Small & Medium Business
+2021,Microsoft,Global,Software,Office Suite,15303701,6735149,7690,Education
+2016,Apple,North America,Consumer Electronics,Tablets,8674980,4224572,1961,Retail
+2016,Apple,Global,Accessories,Chargers,20661737,3511314,2618,Small & Medium Business
+2019,Apple,Africa,Wearables,Apple Watch,13669087,4486737,778,Retail
+2020,Apple,Asia-Pacific,Services,Apple Music,45177310,11520525,5384,Small & Medium Business
+2020,Microsoft,North America,Software,Office Suite,30022707,6359591,1942,Small & Medium Business
+2015,Microsoft,Global,Hardware,PC Accessories,25049407,7230123,2635,Enterprise
+2021,Apple,Europe,Consumer Electronics,Smartphones,33341843,5111833,7216,Retail
+2021,Microsoft,North America,Gaming,Games,10256830,3578866,3461,Retail
+2018,Apple,Africa,Wearables,Apple Watch,37910879,5315311,3129,Enterprise
+2022,Apple,South America,Consumer Electronics,Tablets,27928412,4248465,198,Education
+2016,Apple,Global,Accessories,Chargers,46808933,8115247,7991,Small & Medium Business
+2020,Microsoft,Europe,Hardware,Surface Devices,49041078,17667278,5533,Education
+2016,Apple,Asia-Pacific,Wearables,Fitness Bands,6171059,2406422,6168,Retail
+2015,Microsoft,Africa,Cloud Services,Azure Subscriptions,15805493,4238790,1803,Enterprise
+2023,Apple,South America,Consumer Electronics,Smartphones,13050285,3776287,3268,Education
+2023,Apple,Europe,Accessories,Chargers,9451939,3439641,9394,Education
+2022,Microsoft,North America,Cloud Services,Enterprise Solutions,15237649,6234210,6285,Small & Medium Business
+2017,Microsoft,South America,Gaming,Xbox Consoles,27944927,13542561,5492,Education
+2018,Microsoft,Africa,Hardware,PC Accessories,34463466,7512283,2977,Retail
+2021,Microsoft,Europe,Gaming,Games,40404926,13685421,2385,Retail
+2021,Apple,Asia-Pacific,Accessories,Chargers,43256052,11469704,1041,Education
+2019,Apple,South America,Services,iCloud,19513641,2524542,2869,Enterprise
+2016,Apple,Asia-Pacific,Accessories,AirPods,49630689,22827077,2966,Small & Medium Business
+2015,Apple,Africa,Services,Apple Music,3404536,1204201,9080,Small & Medium Business
+2014,Apple,Africa,Services,iCloud,6881149,1471854,4472,Retail
+2022,Microsoft,Africa,Hardware,Surface Devices,1277786,280990,5468,Small & Medium Business
+2022,Microsoft,South America,Hardware,PC Accessories,40483100,8347863,1327,Small & Medium Business
+2017,Apple,Africa,Accessories,Chargers,15821117,2588317,405,Education
+2018,Apple,Europe,Wearables,Apple Watch,34806268,8966881,7347,Education
+2022,Microsoft,South America,Software,Operating Systems,17886146,7007333,7115,Small & Medium Business
+2016,Microsoft,South America,Software,Operating Systems,22465949,10966672,6895,Education
+2017,Apple,Europe,Wearables,Apple Watch,9725447,2923498,2537,Small & Medium Business
+2020,Apple,Global,Consumer Electronics,Smartphones,9351601,4545695,5295,Enterprise
+2017,Apple,Europe,Accessories,AirPods,32755940,5717636,7734,Small & Medium Business
+2022,Apple,Africa,Consumer Electronics,Smartphones,1295053,163606,7578,Retail
+2022,Microsoft,Asia-Pacific,Software,Operating Systems,8692960,946526,8052,Education
+2015,Microsoft,Global,Gaming,Xbox Consoles,3247736,1059679,7312,Education
+2019,Microsoft,Asia-Pacific,Gaming,Games,17075916,1928349,184,Enterprise
+2017,Apple,Europe,Accessories,Chargers,2716802,1131025,2000,Retail
+2017,Microsoft,Asia-Pacific,Hardware,Surface Devices,37128804,16956807,8933,Education
+2017,Microsoft,Africa,Hardware,Surface Devices,14587624,2948688,3825,Enterprise
+2023,Microsoft,North America,Cloud Services,Azure Subscriptions,4503223,577003,297,Enterprise
+2016,Apple,Europe,Services,Apple Music,26802566,7129487,7568,Enterprise
+2020,Apple,North America,Wearables,Apple Watch,49789620,6517913,8844,Small & Medium Business
+2016,Microsoft,South America,Gaming,Xbox Consoles,20684592,3391057,8887,Small & Medium Business
+2021,Apple,Africa,Services,iCloud,31320100,13934581,878,Small & Medium Business
+2023,Microsoft,Global,Gaming,Xbox Consoles,12680358,3222577,8574,Retail
+2021,Apple,Asia-Pacific,Consumer Electronics,Smartphones,49660142,21827560,5085,Retail
+2019,Apple,Europe,Consumer Electronics,Smartphones,23385966,3246363,2182,Small & Medium Business
+2023,Apple,Asia-Pacific,Consumer Electronics,Tablets,47730931,7642382,6333,Education
+2022,Microsoft,Global,Cloud Services,Azure Subscriptions,41029668,7490126,3054,Small & Medium Business
+2017,Microsoft,Europe,Cloud Services,Azure Subscriptions,40791525,13321269,9258,Enterprise
+2015,Microsoft,South America,Software,Operating Systems,14977023,5968708,1903,Enterprise
+2015,Microsoft,South America,Gaming,Xbox Consoles,6752742,1894726,3998,Enterprise
+2015,Apple,Europe,Consumer Electronics,Tablets,22795932,3166013,2303,Education
+2020,Microsoft,Africa,Hardware,Surface Devices,46247692,11484532,9925,Education
+2018,Microsoft,Asia-Pacific,Gaming,Games,43731349,4866249,4115,Education
+2014,Apple,Africa,Consumer Electronics,Tablets,15334447,5292974,4569,Retail
+2015,Microsoft,South America,Cloud Services,Enterprise Solutions,1633739,357105,9833,Retail
+2020,Microsoft,Europe,Cloud Services,Enterprise Solutions,21878275,5477206,5207,Small & Medium Business
+2021,Apple,North America,Services,Apple Music,31227723,10016478,6568,Education
+2018,Apple,Asia-Pacific,Services,Apple Music,4209776,649558,2274,Education
+2015,Apple,South America,Consumer Electronics,Smartphones,8446680,3243748,3457,Enterprise
+2021,Apple,Global,Wearables,Fitness Bands,33889120,12196225,5739,Enterprise
+2023,Apple,South America,Services,Apple Music,41669391,19448001,8418,Education
+2015,Microsoft,South America,Cloud Services,Enterprise Solutions,31677844,6119695,199,Small & Medium Business
+2020,Apple,North America,Accessories,Chargers,23515658,4713691,5147,Small & Medium Business
+2022,Apple,Asia-Pacific,Services,iCloud,19570080,8797954,5134,Small & Medium Business
+2022,Microsoft,South America,Hardware,PC Accessories,14271658,4968011,7262,Enterprise
+2023,Apple,Asia-Pacific,Services,iCloud,38224619,10663931,6608,Small & Medium Business
+2017,Apple,South America,Consumer Electronics,Tablets,45887733,19571384,7199,Enterprise
+2022,Apple,Africa,Accessories,Chargers,31958385,12386286,8598,Enterprise
+2020,Apple,South America,Consumer Electronics,Smartphones,44799017,15830703,1078,Enterprise
+2019,Apple,South America,Consumer Electronics,Smartphones,25602187,8255747,1097,Enterprise
+2017,Microsoft,North America,Cloud Services,Enterprise Solutions,21233257,8662411,2301,Education
+2018,Microsoft,Europe,Cloud Services,Enterprise Solutions,35374509,4963694,1555,Enterprise
+2018,Apple,Global,Wearables,Apple Watch,5001377,1645243,7749,Education
+2016,Apple,Europe,Consumer Electronics,Tablets,49714995,7582909,6617,Small & Medium Business
+2019,Apple,South America,Accessories,AirPods,8450620,3174024,6792,Enterprise
+2020,Apple,Asia-Pacific,Services,iCloud,36403308,7785176,4911,Education
+2014,Apple,South America,Services,Apple Music,880104,109133,9763,Enterprise
+2020,Microsoft,Europe,Gaming,Games,3844918,558769,9765,Retail
+2014,Microsoft,Asia-Pacific,Hardware,Surface Devices,25959329,8386194,2653,Retail
+2015,Microsoft,Global,Cloud Services,Azure Subscriptions,1605623,205302,411,Education
+2023,Microsoft,Europe,Software,Operating Systems,31363594,8549900,3796,Education
+2022,Apple,Europe,Services,Apple Music,16544079,4513020,6408,Education
+2021,Microsoft,Asia-Pacific,Gaming,Xbox Consoles,20245656,7727486,965,Education
+2017,Apple,South America,Accessories,Chargers,34973629,6709381,4462,Retail
+2014,Apple,Global,Accessories,Chargers,8448625,3251758,2128,Enterprise
+2023,Apple,Asia-Pacific,Wearables,Apple Watch,3544305,1252741,8403,Education
+2021,Apple,Africa,Accessories,AirPods,13180740,1605599,226,Retail
+2016,Microsoft,Africa,Hardware,Surface Devices,47222298,10369342,5691,Small & Medium Business
+2014,Microsoft,South America,Software,Operating Systems,29424159,9624371,5105,Enterprise
+2016,Apple,Europe,Wearables,Apple Watch,10187713,2982322,1773,Enterprise
+2020,Microsoft,Africa,Cloud Services,Azure Subscriptions,25812402,10479316,8814,Enterprise
+2017,Microsoft,South America,Cloud Services,Azure Subscriptions,2273629,899244,7720,Small & Medium Business
+2020,Apple,Asia-Pacific,Consumer Electronics,Smartphones,48002507,5244158,6805,Retail
+2017,Microsoft,Global,Cloud Services,Azure Subscriptions,27839368,6192528,9012,Retail
+2022,Microsoft,South America,Hardware,Surface Devices,30899373,13033777,5751,Retail
+2021,Apple,Global,Services,iCloud,49174616,7248790,1579,Enterprise
+2014,Microsoft,Europe,Software,Operating Systems,30572449,10750588,6051,Small & Medium Business
+2021,Apple,Europe,Consumer Electronics,Tablets,38707661,5550915,5354,Retail
+2014,Apple,North America,Consumer Electronics,Tablets,33730637,13328157,1173,Education
+2022,Microsoft,Asia-Pacific,Cloud Services,Azure Subscriptions,48140047,13572934,2047,Enterprise
+2017,Microsoft,South America,Hardware,Surface Devices,14748001,7338269,6732,Enterprise
+2022,Apple,North America,Accessories,AirPods,21678154,2197686,2218,Small & Medium Business
+2017,Apple,Asia-Pacific,Accessories,Chargers,16986947,3238352,4067,Small & Medium Business
+2015,Apple,Asia-Pacific,Accessories,Chargers,20032227,5540620,8572,Retail
+2015,Microsoft,Europe,Hardware,Surface Devices,19317716,6587085,873,Small & Medium Business
+2023,Apple,Africa,Consumer Electronics,Tablets,14802190,3024205,7007,Retail
+2020,Microsoft,Europe,Software,Office Suite,10378757,2924780,9126,Small & Medium Business
+2017,Microsoft,South America,Cloud Services,Enterprise Solutions,10733320,4837323,2128,Retail
+2020,Microsoft,North America,Cloud Services,Enterprise Solutions,25406408,6295883,3250,Small & Medium Business
+2016,Apple,South America,Services,iCloud,48770496,5142499,6568,Enterprise
+2021,Apple,Global,Wearables,Apple Watch,19900453,3679996,6063,Retail
+2022,Apple,North America,Services,iCloud,16958087,7836847,5707,Small & Medium Business
+2017,Apple,North America,Accessories,AirPods,38215585,15508760,1245,Small & Medium Business
+2023,Apple,South America,Wearables,Fitness Bands,16281610,3425872,7653,Small & Medium Business
+2021,Microsoft,North America,Hardware,Surface Devices,43433147,7496806,7068,Enterprise
+2023,Microsoft,North America,Software,Operating Systems,44133684,15615584,2749,Education
+2022,Microsoft,Europe,Hardware,PC Accessories,39848229,19803987,5319,Enterprise
+2014,Apple,Europe,Accessories,Chargers,22383668,10361030,1461,Small & Medium Business
+2022,Microsoft,Global,Hardware,Surface Devices,10000688,3853637,4901,Retail
+2014,Apple,Global,Wearables,Fitness Bands,15412831,2116313,6699,Enterprise
+2022,Apple,South America,Services,Apple Music,47441394,13304805,707,Retail
+2022,Microsoft,Global,Software,Operating Systems,33360867,7255254,7397,Enterprise
+2023,Apple,North America,Accessories,Chargers,32834107,8386930,8328,Small & Medium Business
+2017,Apple,Asia-Pacific,Services,iCloud,35941124,14730985,3243,Education
+2019,Apple,North America,Consumer Electronics,Smartphones,19749985,7113006,8188,Enterprise
+2021,Microsoft,North America,Hardware,PC Accessories,14006006,2186508,9352,Education
+2020,Apple,Africa,Accessories,Chargers,44575592,9078270,7473,Retail
+2018,Apple,North America,Consumer Electronics,Tablets,3691656,744602,7247,Education
+2016,Apple,Europe,Wearables,Fitness Bands,10723549,3175669,2603,Education
+2017,Microsoft,Asia-Pacific,Cloud Services,Enterprise Solutions,41254204,15850617,1295,Small & Medium Business
+2019,Microsoft,South America,Software,Office Suite,19042754,4741946,7469,Enterprise
+2017,Apple,Europe,Accessories,AirPods,1682095,302494,1972,Small & Medium Business
+2020,Microsoft,Global,Software,Operating Systems,46226335,18634833,9521,Enterprise
+2023,Microsoft,South America,Gaming,Games,46624201,22909145,7936,Small & Medium Business
+2023,Apple,Africa,Wearables,Fitness Bands,4772182,1713736,8074,Enterprise
+2014,Apple,Asia-Pacific,Accessories,Chargers,1774021,817585,6973,Education
+2020,Microsoft,Europe,Cloud Services,Enterprise Solutions,6353159,1921206,252,Retail
+2015,Apple,South America,Wearables,Apple Watch,18177842,7198198,5305,Education
+2016,Microsoft,Asia-Pacific,Cloud Services,Enterprise Solutions,17344678,7745384,4404,Enterprise
+2022,Apple,Africa,Accessories,Chargers,41618170,13511261,1213,Small & Medium Business
+2023,Microsoft,Asia-Pacific,Hardware,PC Accessories,41719514,20776068,2058,Education
+2017,Microsoft,Asia-Pacific,Gaming,Xbox Consoles,29546566,6995391,7614,Retail
+2017,Apple,South America,Wearables,Fitness Bands,23444081,8230181,2188,Small & Medium Business
+2014,Apple,Europe,Accessories,AirPods,13973924,4377914,823,Enterprise
+2022,Apple,Africa,Services,iCloud,45136174,16508480,7511,Small & Medium Business
+2023,Microsoft,Global,Cloud Services,Azure Subscriptions,20037843,4598294,2654,Small & Medium Business
+2021,Microsoft,Global,Gaming,Xbox Consoles,10913994,2255132,7179,Retail
+2015,Microsoft,Asia-Pacific,Software,Office Suite,42040208,11287083,7706,Small & Medium Business
+2023,Microsoft,North America,Gaming,Games,7360551,3592899,8405,Education
+2021,Microsoft,North America,Software,Office Suite,6667571,1850570,3610,Education
+2015,Microsoft,Global,Cloud Services,Enterprise Solutions,5804704,1213163,9278,Retail
+2019,Microsoft,Asia-Pacific,Software,Operating Systems,19149643,5416340,1962,Education
+2020,Microsoft,Europe,Software,Office Suite,4201252,1295713,962,Retail
+2019,Apple,Asia-Pacific,Accessories,Chargers,49016994,16440512,1802,Retail
+2014,Apple,Asia-Pacific,Services,iCloud,44354666,16289226,1859,Education
+2014,Apple,Asia-Pacific,Wearables,Apple Watch,23963911,3762001,6610,Education
+2014,Microsoft,Global,Hardware,PC Accessories,11848133,1609904,6232,Enterprise
+2015,Microsoft,Europe,Hardware,Surface Devices,23207369,3169837,8910,Education
+2022,Microsoft,South America,Gaming,Xbox Consoles,41635614,19123118,6247,Small & Medium Business
+2014,Apple,South America,Accessories,Chargers,48818708,19146310,9347,Retail
+2022,Apple,Global,Wearables,Fitness Bands,35927000,15864695,5274,Small & Medium Business
+2015,Apple,Global,Accessories,AirPods,29166522,5242640,190,Education
+2015,Apple,Africa,Accessories,AirPods,3224587,535525,5620,Enterprise
+2015,Apple,Asia-Pacific,Accessories,AirPods,42159912,18784982,8614,Education
+2017,Apple,Asia-Pacific,Wearables,Fitness Bands,10393016,1707295,807,Enterprise
+2021,Apple,South America,Services,iCloud,30932100,3996329,6364,Enterprise
+2017,Microsoft,Africa,Software,Operating Systems,19399495,5237196,8626,Enterprise
+2020,Microsoft,Europe,Gaming,Xbox Consoles,43356565,9232807,6021,Small & Medium Business
+2019,Microsoft,North America,Cloud Services,Enterprise Solutions,8242383,2776141,9847,Enterprise
+2023,Apple,South America,Services,iCloud,17281363,7780766,192,Education
+2021,Apple,South America,Consumer Electronics,Smartphones,41977969,7555218,1110,Enterprise
+2023,Apple,Africa,Accessories,AirPods,43266037,6585816,7819,Retail
+2017,Apple,Global,Consumer Electronics,Tablets,25866849,4956950,5848,Education
+2023,Apple,Africa,Services,iCloud,5919677,1994295,5916,Education
+2016,Microsoft,North America,Hardware,PC Accessories,23751963,6559225,8343,Education
+2018,Apple,South America,Accessories,Chargers,10963511,2293359,6693,Education
+2018,Apple,Asia-Pacific,Wearables,Apple Watch,6695368,3042517,232,Education
+2015,Apple,Global,Wearables,Fitness Bands,11336737,5657839,2430,Education
+2019,Apple,Asia-Pacific,Consumer Electronics,Tablets,44873257,11526053,1950,Small & Medium Business
+2021,Apple,Europe,Services,iCloud,36794853,6788893,8260,Education
+2018,Microsoft,Africa,Gaming,Games,39921470,15487346,9401,Education
+2014,Microsoft,North America,Software,Office Suite,49705428,5430063,9086,Retail
+2015,Microsoft,Africa,Hardware,Surface Devices,33493914,11402425,2707,Enterprise
+2018,Microsoft,North America,Hardware,Surface Devices,17091005,5156011,7145,Small & Medium Business
+2017,Microsoft,Africa,Gaming,Xbox Consoles,41362832,5261379,7120,Small & Medium Business
+2019,Apple,Europe,Consumer Electronics,Tablets,21688982,8861603,6701,Enterprise
+2020,Apple,South America,Wearables,Apple Watch,5999771,1907683,8089,Enterprise
+2021,Microsoft,Asia-Pacific,Software,Office Suite,17897668,7233615,5913,Education
+2018,Apple,Africa,Services,Apple Music,40153400,14833749,7952,Education
+2018,Apple,Africa,Consumer Electronics,Smartphones,5495410,877395,406,Small & Medium Business
+2019,Apple,Asia-Pacific,Accessories,Chargers,19985145,8733349,6360,Small & Medium Business
+2021,Microsoft,North America,Cloud Services,Enterprise Solutions,20305667,6114483,1253,Retail
+2014,Microsoft,Europe,Cloud Services,Azure Subscriptions,13524974,5214683,6007,Education
+2020,Microsoft,North America,Cloud Services,Enterprise Solutions,15340102,7124090,5480,Small & Medium Business
+2018,Microsoft,South America,Hardware,PC Accessories,29630928,11366229,3566,Enterprise
+2019,Microsoft,Asia-Pacific,Software,Operating Systems,28113197,5434162,1005,Enterprise
+2015,Apple,Europe,Wearables,Apple Watch,42953802,4442120,6526,Enterprise
+2022,Microsoft,Europe,Hardware,PC Accessories,20966474,9648624,1746,Education
+2022,Apple,Europe,Services,Apple Music,23682853,10315074,7371,Small & Medium Business
+2021,Apple,Europe,Wearables,Apple Watch,40790143,17333380,6357,Small & Medium Business
+2019,Apple,Global,Consumer Electronics,Tablets,14957149,6564230,961,Retail
+2014,Microsoft,South America,Cloud Services,Enterprise Solutions,48983277,22272935,2782,Enterprise
+2017,Microsoft,North America,Software,Office Suite,8336059,3541201,815,Enterprise
+2022,Apple,Europe,Accessories,AirPods,38616423,15197397,4803,Retail
+2023,Microsoft,South America,Gaming,Xbox Consoles,19409606,7090310,938,Small & Medium Business
+2020,Microsoft,Global,Cloud Services,Enterprise Solutions,14403066,2727904,6651,Small & Medium Business
+2020,Microsoft,South America,Gaming,Games,47961418,13122997,5236,Retail
+2020,Microsoft,South America,Cloud Services,Azure Subscriptions,5939984,2493447,3750,Education
+2015,Microsoft,Global,Software,Office Suite,28072835,5586786,1666,Retail
+2017,Apple,Global,Services,iCloud,48185503,18279367,6597,Small & Medium Business
+2017,Apple,Global,Services,iCloud,17452229,4342183,4245,Small & Medium Business
+2017,Apple,Global,Consumer Electronics,Tablets,30410437,8117709,3572,Retail
+2019,Apple,South America,Consumer Electronics,Smartphones,1711462,748371,2785,Education
+2018,Microsoft,Asia-Pacific,Gaming,Xbox Consoles,40355820,19217821,9120,Education
+2021,Apple,North America,Accessories,AirPods,7020591,2094012,5245,Retail
+2022,Microsoft,South America,Cloud Services,Enterprise Solutions,18444363,8240874,7117,Education
+2016,Microsoft,Asia-Pacific,Cloud Services,Enterprise Solutions,23149819,7562706,7364,Enterprise
+2017,Microsoft,North America,Hardware,PC Accessories,5741990,805539,7501,Enterprise
+2015,Microsoft,North America,Hardware,Surface Devices,31955015,15087081,2828,Education
+2015,Apple,South America,Wearables,Fitness Bands,4081429,1940657,6099,Education
+2023,Microsoft,Europe,Gaming,Games,3448805,657719,9805,Small & Medium Business
+2022,Apple,Asia-Pacific,Wearables,Apple Watch,581986,92307,7437,Small & Medium Business
+2017,Apple,Europe,Consumer Electronics,Smartphones,35237561,10771732,5656,Retail
+2020,Apple,Africa,Wearables,Apple Watch,29779173,3771582,8341,Education
+2019,Apple,North America,Wearables,Apple Watch,45175146,20805971,1987,Small & Medium Business
+2023,Apple,Europe,Services,Apple Music,20264935,5347288,2612,Small & Medium Business
+2023,Microsoft,North America,Software,Office Suite,7500121,862719,1829,Retail
+2019,Apple,Africa,Consumer Electronics,Smartphones,33687589,7243461,1242,Retail
+2017,Apple,Africa,Consumer Electronics,Smartphones,27200348,12517916,1929,Small & Medium Business
+2022,Apple,South America,Wearables,Fitness Bands,31658048,7387652,7299,Education
+2018,Microsoft,North America,Cloud Services,Enterprise Solutions,19849830,9460217,6393,Retail
+2022,Microsoft,South America,Hardware,PC Accessories,18199478,2372760,7848,Enterprise
+2015,Microsoft,South America,Cloud Services,Azure Subscriptions,17098789,5992414,9129,Education
+2014,Microsoft,Europe,Gaming,Games,32634210,13044417,3069,Enterprise
+2016,Apple,Global,Wearables,Fitness Bands,10779911,2072827,7022,Retail
+2015,Apple,North America,Consumer Electronics,Smartphones,29130856,13585664,9649,Enterprise
+2020,Microsoft,Global,Hardware,PC Accessories,35032881,16763808,7569,Education
+2015,Microsoft,Asia-Pacific,Gaming,Xbox Consoles,40426628,13515487,1393,Enterprise
+2021,Microsoft,North America,Gaming,Xbox Consoles,29933008,4720875,5303,Enterprise
+2023,Apple,Europe,Accessories,Chargers,35835305,14229813,8356,Retail
+2014,Apple,Europe,Consumer Electronics,Tablets,21667109,5601935,2789,Enterprise
+2022,Microsoft,Africa,Cloud Services,Enterprise Solutions,10949741,1380543,6986,Small & Medium Business
+2023,Apple,North America,Consumer Electronics,Tablets,10447204,3882093,5468,Education
+2018,Microsoft,Global,Cloud Services,Azure Subscriptions,46033472,10165675,5815,Education
+2014,Microsoft,Africa,Cloud Services,Enterprise Solutions,24770156,5767596,5599,Retail
+2017,Apple,Africa,Accessories,Chargers,14717203,4238831,1308,Enterprise
+2016,Microsoft,North America,Cloud Services,Azure Subscriptions,16263746,3949435,4933,Education
+2023,Apple,North America,Consumer Electronics,Smartphones,13243769,2198613,9043,Retail
+2023,Microsoft,South America,Software,Office Suite,33310147,10001044,1859,Enterprise
+2015,Apple,Global,Services,Apple Music,15484511,4881249,6105,Retail
+2015,Microsoft,Europe,Gaming,Games,7223486,1149841,8601,Retail
+2015,Microsoft,Africa,Gaming,Xbox Consoles,47151435,19872141,1465,Education
+2015,Apple,Global,Services,iCloud,37971367,17637922,4148,Education
+2016,Apple,Global,Accessories,AirPods,44463999,19587663,6416,Small & Medium Business
+2020,Apple,Europe,Accessories,Chargers,9937579,2406124,2917,Small & Medium Business
+2014,Microsoft,Europe,Gaming,Games,42847798,11058338,7500,Education
+2018,Microsoft,Europe,Gaming,Xbox Consoles,24668646,5038384,4987,Retail
+2016,Apple,Global,Accessories,AirPods,45172448,9586910,2174,Small & Medium Business
+2023,Microsoft,Africa,Hardware,PC Accessories,18966234,8993503,9623,Small & Medium Business
+2017,Microsoft,Global,Hardware,PC Accessories,4735270,1355921,7399,Retail
+2015,Microsoft,Global,Cloud Services,Azure Subscriptions,41318504,5469512,2264,Retail
+2019,Microsoft,Global,Hardware,PC Accessories,20303696,7541848,2055,Retail
+2019,Microsoft,Asia-Pacific,Cloud Services,Azure Subscriptions,7620705,1018024,3209,Small & Medium Business
+2014,Apple,Asia-Pacific,Wearables,Fitness Bands,23939886,3577478,9395,Retail
+2017,Apple,South America,Services,iCloud,49689294,13579742,7786,Retail
+2019,Microsoft,Asia-Pacific,Gaming,Games,45454133,19817484,5748,Small & Medium Business
+2020,Microsoft,Asia-Pacific,Cloud Services,Azure Subscriptions,19978510,9084034,1328,Small & Medium Business
+2017,Microsoft,Europe,Gaming,Xbox Consoles,23600005,10142794,9500,Retail
+2021,Microsoft,South America,Hardware,Surface Devices,37038425,15000867,4710,Small & Medium Business
+2017,Apple,Global,Wearables,Fitness Bands,25471341,3388303,9011,Retail
+2020,Microsoft,North America,Software,Office Suite,19968969,2765506,9578,Enterprise
+2014,Microsoft,Asia-Pacific,Software,Office Suite,15380245,3292554,5214,Retail
+2016,Apple,Asia-Pacific,Consumer Electronics,Tablets,20811459,5604107,8880,Retail
+2020,Microsoft,Asia-Pacific,Hardware,PC Accessories,14524826,2879203,1289,Enterprise
+2016,Microsoft,North America,Gaming,Xbox Consoles,10317305,4199525,4787,Enterprise
+2023,Apple,Europe,Wearables,Fitness Bands,47775417,11210047,2490,Education
+2014,Apple,Africa,Wearables,Fitness Bands,44104238,17356084,1410,Retail
+2019,Apple,Africa,Consumer Electronics,Tablets,46412189,14791950,5975,Retail
+2023,Apple,North America,Consumer Electronics,Tablets,28905571,2994150,4065,Small & Medium Business
+2019,Apple,Asia-Pacific,Services,Apple Music,34236395,9637510,6926,Enterprise
+2023,Apple,North America,Services,iCloud,2576848,320156,6571,Retail
+2018,Apple,South America,Consumer Electronics,Tablets,33149206,12627524,5813,Education
+2016,Microsoft,Africa,Gaming,Games,16944899,7923309,4577,Small & Medium Business
+2015,Apple,South America,Services,Apple Music,23144155,2994845,9919,Small & Medium Business
+2021,Apple,Europe,Accessories,Chargers,37197913,14182100,130,Education
+2015,Microsoft,South America,Cloud Services,Azure Subscriptions,29034955,7497173,557,Education
+2022,Microsoft,North America,Cloud Services,Enterprise Solutions,20170944,9254659,9678,Education
+2023,Apple,Africa,Consumer Electronics,Smartphones,20437054,8585871,4229,Education
+2022,Microsoft,North America,Cloud Services,Azure Subscriptions,41264303,5406099,5261,Small & Medium Business
+2015,Microsoft,Africa,Hardware,PC Accessories,49439726,20738100,8492,Small & Medium Business
+2015,Microsoft,Europe,Hardware,Surface Devices,14292380,6332308,2347,Retail
+2015,Microsoft,Africa,Hardware,Surface Devices,35482312,12185525,9924,Retail
+2020,Apple,Europe,Services,Apple Music,41244584,8923781,9676,Enterprise
+2020,Apple,North America,Wearables,Fitness Bands,21811221,7602475,1613,Retail
+2023,Apple,Europe,Accessories,AirPods,1995426,305495,9533,Retail
+2017,Apple,South America,Consumer Electronics,Smartphones,25101960,9479377,906,Retail
+2019,Microsoft,Asia-Pacific,Gaming,Xbox Consoles,2587224,789565,1792,Enterprise
+2014,Apple,Africa,Services,iCloud,1787755,672054,9377,Small & Medium Business
+2017,Microsoft,Europe,Gaming,Xbox Consoles,36869697,11350751,8371,Small & Medium Business
+2016,Apple,Asia-Pacific,Consumer Electronics,Tablets,11254610,4822741,7862,Enterprise
+2016,Apple,North America,Accessories,AirPods,35773449,7402341,4370,Retail
+2020,Microsoft,Asia-Pacific,Hardware,Surface Devices,544988,88065,9783,Education
+2017,Apple,North America,Consumer Electronics,Tablets,36767628,15167149,5864,Enterprise
+2018,Microsoft,Europe,Software,Operating Systems,5039085,1597021,2095,Education
+2016,Apple,Africa,Accessories,AirPods,22341786,10402446,4163,Education
+2015,Apple,Global,Wearables,Fitness Bands,29245225,6920389,8749,Education
+2019,Apple,Asia-Pacific,Consumer Electronics,Smartphones,31564080,14830647,7972,Retail
+2021,Microsoft,North America,Hardware,Surface Devices,7795164,2162611,2726,Education
+2017,Apple,North America,Wearables,Fitness Bands,7776744,2206869,629,Education
+2014,Apple,North America,Services,Apple Music,31305807,11621196,8444,Small & Medium Business
+2022,Apple,South America,Consumer Electronics,Tablets,33497902,9389762,2915,Enterprise
+2022,Microsoft,Asia-Pacific,Gaming,Xbox Consoles,3707420,851949,1198,Education
+2020,Apple,Africa,Consumer Electronics,Smartphones,37047836,17801122,8993,Enterprise
+2014,Apple,Africa,Services,iCloud,15999724,4904785,9932,Education
+2022,Apple,Europe,Services,iCloud,23172051,11578745,3682,Education
+2019,Apple,Africa,Services,iCloud,27254133,4727621,3151,Small & Medium Business
+2017,Microsoft,South America,Software,Operating Systems,38824800,8618185,7990,Education
+2020,Microsoft,Europe,Hardware,Surface Devices,4474596,1118168,804,Retail
+2014,Apple,Europe,Wearables,Fitness Bands,44014033,7027715,6342,Enterprise
+2023,Microsoft,Africa,Hardware,PC Accessories,13892829,2559692,9517,Small & Medium Business
+2020,Microsoft,Europe,Gaming,Games,13036705,2165336,5412,Enterprise
+2014,Microsoft,South America,Cloud Services,Azure Subscriptions,9503963,3530418,6770,Small & Medium Business
+2020,Apple,Europe,Accessories,Chargers,29176612,11265612,8930,Small & Medium Business
+2020,Apple,Europe,Services,Apple Music,32638892,10515894,434,Enterprise
+2021,Microsoft,Europe,Cloud Services,Azure Subscriptions,37696945,15679793,2728,Enterprise
+2023,Apple,Asia-Pacific,Wearables,Apple Watch,27540518,5716503,2365,Retail
+2015,Apple,Asia-Pacific,Accessories,AirPods,2599223,926270,7096,Education
+2015,Microsoft,South America,Gaming,Games,2689715,1232587,5222,Retail
+2022,Microsoft,North America,Gaming,Xbox Consoles,9562152,1081354,1858,Small & Medium Business
+2018,Microsoft,South America,Hardware,Surface Devices,35083377,16564408,7347,Enterprise
+2017,Apple,Europe,Wearables,Fitness Bands,45479564,19780269,3542,Retail
+2018,Apple,Africa,Services,Apple Music,49773808,22758042,6539,Small & Medium Business
+2015,Apple,South America,Consumer Electronics,Smartphones,31002574,3282239,5030,Enterprise
+2021,Microsoft,Global,Software,Operating Systems,38263836,5551567,4666,Small & Medium Business
+2020,Apple,North America,Wearables,Apple Watch,29176520,3792707,6079,Small & Medium Business
+2016,Apple,Africa,Wearables,Apple Watch,13914749,5825838,3881,Retail
+2014,Apple,Asia-Pacific,Services,Apple Music,19117988,5643340,5306,Education
+2021,Microsoft,Asia-Pacific,Cloud Services,Enterprise Solutions,17793141,6280504,2020,Enterprise
+2015,Apple,Africa,Accessories,AirPods,36285356,16842152,279,Small & Medium Business
+2015,Microsoft,Global,Software,Operating Systems,22415109,5354694,1803,Enterprise
+2015,Microsoft,Africa,Cloud Services,Azure Subscriptions,26218530,6878869,3479,Small & Medium Business
+2023,Apple,Global,Consumer Electronics,Smartphones,44011772,21780775,7305,Small & Medium Business
+2019,Apple,Africa,Consumer Electronics,Smartphones,12054521,3414813,6471,Enterprise
+2017,Apple,South America,Wearables,Fitness Bands,10306715,4962600,8458,Retail
+2018,Microsoft,Global,Cloud Services,Azure Subscriptions,4079777,646884,7612,Enterprise
+2014,Apple,Africa,Accessories,Chargers,16460935,3768292,9784,Enterprise
+2021,Apple,North America,Accessories,AirPods,37950373,5190341,4538,Enterprise
+2016,Microsoft,Global,Software,Office Suite,48211919,20658968,7049,Enterprise
+2015,Apple,North America,Accessories,AirPods,35207350,10629530,9435,Retail
+2016,Microsoft,South America,Cloud Services,Azure Subscriptions,42556079,13643628,7767,Retail
+2014,Apple,Global,Accessories,Chargers,36209532,13259733,8804,Enterprise
+2014,Apple,Asia-Pacific,Wearables,Apple Watch,39296429,10216345,1060,Small & Medium Business
+2016,Apple,Asia-Pacific,Accessories,AirPods,40346254,7120549,8867,Education
+2021,Microsoft,Europe,Gaming,Games,46015722,16454304,5114,Small & Medium Business
+2023,Apple,South America,Services,iCloud,3783244,1685281,4858,Education
+2020,Apple,Global,Accessories,Chargers,12611968,2759566,4617,Small & Medium Business
+2018,Microsoft,North America,Software,Operating Systems,13667332,1542073,9471,Retail
+2017,Apple,Africa,Wearables,Fitness Bands,18696897,2920786,8158,Enterprise
+2015,Microsoft,North America,Cloud Services,Enterprise Solutions,21079756,3883244,7928,Education
+2015,Apple,Asia-Pacific,Consumer Electronics,Tablets,17352113,4791107,4784,Retail
+2018,Microsoft,North America,Software,Office Suite,36621812,12010610,5120,Education
+2016,Apple,North America,Consumer Electronics,Smartphones,10383522,4202811,1557,Small & Medium Business
+2021,Microsoft,North America,Hardware,PC Accessories,46715641,11240483,7112,Enterprise
+2021,Apple,South America,Consumer Electronics,Smartphones,37833760,18838294,3890,Enterprise
+2019,Apple,Africa,Services,Apple Music,40288098,9624305,4178,Retail
+2023,Apple,Africa,Services,Apple Music,42088164,15098863,5800,Enterprise
+2017,Microsoft,Global,Hardware,Surface Devices,7921831,3121868,5119,Enterprise
+2016,Microsoft,South America,Hardware,Surface Devices,43833215,15740122,509,Education
+2017,Microsoft,Africa,Cloud Services,Azure Subscriptions,14641599,2235033,6214,Education
+2023,Microsoft,North America,Cloud Services,Azure Subscriptions,16660893,5125891,5693,Small & Medium Business
+2018,Apple,Global,Wearables,Apple Watch,14566196,5719774,5006,Enterprise
+2014,Apple,Europe,Services,iCloud,7934035,3005930,4384,Enterprise
+2023,Microsoft,Asia-Pacific,Software,Office Suite,28984758,12581473,7620,Enterprise
+2023,Microsoft,North America,Cloud Services,Azure Subscriptions,48011349,13025389,2893,Enterprise
+2020,Apple,North America,Accessories,Chargers,16425594,1927794,9069,Small & Medium Business
+2021,Apple,Global,Consumer Electronics,Tablets,49859911,7335796,231,Retail
+2015,Microsoft,Global,Gaming,Games,20826185,7342115,3309,Retail
+2016,Apple,Europe,Accessories,AirPods,43451723,5093160,6287,Education
+2019,Apple,Asia-Pacific,Services,Apple Music,6445072,3102681,3222,Enterprise
+2014,Microsoft,Global,Gaming,Xbox Consoles,25436138,7433560,6999,Enterprise
+2016,Microsoft,Africa,Cloud Services,Azure Subscriptions,20556219,9042479,8704,Retail
+2015,Apple,South America,Consumer Electronics,Tablets,8853063,2876814,8053,Enterprise
+2015,Microsoft,North America,Software,Operating Systems,21867887,3939308,5276,Retail
